@@ -1,10 +1,10 @@
 # Analisis Eksplorasi Data (EDA): Green Quantum Data Center Operations
 ## Proyek 1: Statistika dan Probabilitas (ET234101)
 
-Repositori ini berisi laporan dan dokumentasi mendalam mengenai eksplorasi data (*Exploratory Data Analysis* / EDA) pada operasional *Green Quantum Data Center*. Proyek ini bertujuan untuk mengenali karakteristik data, memeriksa kualitas data, serta memahami pola sebaran dan hubungan antarvariabel sebelum melangkah ke tahap pemodelan lanjutan.
+Repositori ini berisi laporan dan dokumentasi mendalam mengenai eksplorasi data (Exploratory Data Analysis / EDA) pada operasional Green Quantum Data Center. Proyek ini bertujuan untuk mengenali karakteristik data, memeriksa kualitas data, serta memahami pola sebaran dan hubungan antarvariabel sebelum melangkah ke tahap pemodelan lanjutan.
 
 ## 🎯 Latar Belakang & Tujuan Proyek
-Pusat data (*data center*) modern membutuhkan pengelolaan sumber daya komputasi dan energi yang efisien untuk menekan dampak lingkungan. Melalui proyek ini, dilakukan analisis terhadap dataset operasional pusat data untuk menjawab beberapa pertanyaan mendasar:
+Pusat data (data center) modern membutuhkan pengelolaan sumber daya komputasi dan energi yang efisien untuk menekan dampak lingkungan. Melalui proyek ini, dilakukan analisis terhadap dataset operasional pusat data untuk menjawab beberapa pertanyaan mendasar:
 1. Bagaimana distribusi beban kerja (*workload*) dan penggunaan sumber energi di pusat data?
 2. Bagaimana karakteristik statistik dari permintaan komputasi, penyimpanan, jaringan, dan emisi karbon?
 3. Apakah terdapat kaitan atau pola antara variabel-variabel operasional tersebut?
